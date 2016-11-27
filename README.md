@@ -1,1 +1,5 @@
-Developed by Angela Park.
+#Sureshunt
+
+http://sureshunt.com/
+
+Designed by Angela Park.
